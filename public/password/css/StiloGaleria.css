@@ -1,0 +1,52 @@
+.Galeria{
+  background: rgba(7, 8, 8, 0.4);
+  width: 100%;
+  position: relative;
+  bottom: 35px;
+  border-style: solid;
+  border: 5px, 5px, 5px, 5px;
+  border-color: black;
+  height: auto;
+  margin: 0;
+}
+
+.TituloGal{
+  font-family: fantasy;
+  text-align: center;
+  color:black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+
+.hoverrr{
+text-align: center;
+  border-style: solid;
+  border: 5px, 5px, 5px, 5px;
+  border-color: black;
+  background-color: #ffffff;
+  margin: 5px,5px,5px,5px;
+
+}
+
+.hoverrr:hover{
+  border-style: solid;
+  border: 5px, 5px, 5px, 5px;
+  border-color: black;
+  background-color: #fb0404;
+  margin: 5px,5px,5px,5px;
+}
+
+
+.ImagenMostrada{
+  clear: both;
+  border-style: solid;
+  border: 5px, 5px, 5px, 5px;
+  border-color: black;
+   width: 80%;
+   height: 50%;
+   position: relative;
+   left: 10%;
+
+}

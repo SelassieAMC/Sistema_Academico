@@ -1,0 +1,134 @@
+.CenterContent{
+  background-color: rgba(249, 85, 4, 0.7);
+  width: 100%;
+  margin: 0;
+  height: auto;
+  position: relative;
+  bottom: 20px;
+  border-top: 5px;
+  border-style: solid;
+}
+
+.Titulo{
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+.ContentIzquierda{
+  border-style: solid;
+  border-left: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  width: 50%;
+  margin: 0;
+  position: relative;
+  top: 50px;
+  text-align: justify;
+  height: 1270px;
+}
+
+.QuienesSomos1{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: auto;
+  position:relative;
+  left: 10%;
+}
+
+.Titulo2{
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+
+.Texto1{
+  text-align: justify;
+  position: relative;
+  top: 20px;
+  width: 80%;
+  left:11%;
+}
+
+.Mision{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: auto;
+  position:relative;
+  left: 10%;
+  top:40px;
+}
+
+.MisionTxt{
+  text-align: justify;
+  position: relative;
+  top: 80px;
+  width: 80%;
+  left:11%;
+}
+
+.ContentDerecha{
+  border:0;
+  width: 50%;
+  margin: 0;
+  position: relative;
+  bottom:1240px;
+  left:50%;
+  text-align: justify;
+}
+
+.Titulo3{
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.Texto2{
+  text-align: justify;
+  position: relative;
+  width: 80%;
+  left:11%;
+}
+
+.QuienesSomos2{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: auto;
+  position:relative;
+  left: 10%;
+  top:20px;
+}
+
+.Vision{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: auto;
+  position:relative;
+  left: 10%;
+  top:20px;
+}
+
+.VisionTxt{
+  text-align: justify;
+  position: relative;
+  top: 60px;
+  width: 80%;
+  left:11%;
+}
+
+.Linea{
+  background-color: black;
+  height: 3px;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  top: 25px;
+}

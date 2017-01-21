@@ -1,0 +1,24 @@
+INSERT into horarios values('1','06:00 - 07:00','1','',null,null);
+INSERT into horarios values('2','07:00 - 08:00','1','',null,null);
+INSERT into horarios values('3','08:00 - 09:00','1','',null,null);
+INSERT into horarios values('4','09:00 - 10:00','1','',null,null);
+INSERT into horarios values('5','10:00 - 11:00','1','',null,null);
+INSERT into horarios values('6','11:00 - 12:00','1','',null,null);
+INSERT into horarios values('7','12:00 - 13:00','1','',null,null);
+INSERT into horarios values('8','13:00 - 14:00','1','',null,null);
+INSERT into horarios values('9','14:00 - 15:00','1','',null,null);
+INSERT into horarios values('10','15:00 - 16:00','1','',null,null);
+INSERT into horarios values('11','16:00 - 17:00','1','',null,null);
+INSERT into horarios values('12','17:00 - 18:00','1','',null,null);
+
+INSERT into horarios values('13','06:00 - 08:00','2','',null,null);
+INSERT into horarios values('14','07:00 - 09:00','2','',null,null);
+INSERT into horarios values('15','08:00 - 10:00','2','',null,null);
+INSERT into horarios values('16','09:00 - 11:00','2','',null,null);
+INSERT into horarios values('17','10:00 - 12:00','2','',null,null);
+INSERT into horarios values('18','11:00 - 13:00','2','',null,null);
+INSERT into horarios values('19','12:00 - 14:00','2','',null,null);
+INSERT into horarios values('20','13:00 - 15:00','2','',null,null);
+INSERT into horarios values('21','14:00 - 16:00','2','',null,null);
+INSERT into horarios values('22','15:00 - 17:00','2','',null,null);
+INSERT into horarios values('23','16:00 - 18:00','2','',null,null);

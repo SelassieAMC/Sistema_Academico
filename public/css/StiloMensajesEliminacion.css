@@ -1,0 +1,11 @@
+.MensajeDeEliminacion{
+  position: relative;
+  left:40%;
+  top: 150px;
+}
+
+.MensajeDeEliminacion h2{
+  position: relative;
+  right:80px;
+  bottom:100px;
+}

@@ -1,0 +1,195 @@
+.CenterContentI{
+  background-color: rgba(249, 85, 4, 0.7);
+  width: 100%;
+  margin: 0;
+  height: 2500px;
+  position: relative;
+  bottom: 20px;
+  border-top: 5px;
+  border-style: solid;
+}
+
+.TituloI{
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+.PresentacionI{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: 310px;
+  position:relative;
+  top: 50px;
+  left: 10%;
+  font-weight: 700;
+}
+
+.TextoPresentacionI{
+  text-align: justify;
+  position: relative;
+  top: 30px;
+  width: 80%;
+  left:11%;
+  font-size: 18px;
+  color:black;
+}
+
+.ContentIzquierdaI{
+  border-style: solid;
+  border-left: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  width: 50%;
+  margin: 0;
+  position: relative;
+  top: 80px;
+  text-align: justify;
+  height: 1800px;
+}
+
+
+
+.Titulo2I{
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+
+.Titulo3I{
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: 0px;
+}
+
+.SedeA{
+  border: 5px;
+  border-style: solid;
+  width: 60%;
+  height: 350px;
+  position:relative;
+  left: 20%;
+  margin-top: 20px;
+}
+
+.SedeB{
+  border: 5px;
+  border-style: solid;
+  width: 60%;
+  height: 350px;
+  position:relative;
+  left: 20%;
+  margin-top: 20px;
+}
+
+.SedeC{
+  border: 5px;
+  border-style: solid;
+  width: 60%;
+  height: 350px;
+  position:relative;
+  left: 20%;
+}
+
+.SedeD{
+ border: 5px;
+ border-style: solid;
+ width: 60%;
+ height: 350px;
+ position:relative;
+ left: 20%;
+}
+
+.Texto1I{
+  text-align: justify;
+  position: relative;
+  top: 20px;
+  width: 80%;
+  left:11%;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color:black;
+}
+
+.Texto2I{
+  text-align: justify;
+  position: relative;
+  top: 0px;
+  width: 80%;
+  left:11%;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color:black;
+}
+
+.Biblioteca{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: 310px;
+  position:relative;
+  left: 10%;
+  top:20px;
+  margin-bottom: 20px;
+}
+
+.Enfermeria{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: 310px;
+  position:relative;
+  left: 10%;
+  top:20px;
+  margin-bottom: 20px;
+}
+
+.Sala1I{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: 310px;
+  position:relative;
+  left: 10%;
+  top:0px;
+  margin-bottom: 20px;
+}
+
+.Sala2I{
+  border: 5px;
+  border-style: solid;
+  width: 81.3%;
+  height: 310px;
+  position:relative;
+  left: 10%;
+  top:40px;
+  margin-bottom: 20px;
+}
+
+.ContentDerechaI{
+  border:0;
+  width: 50%;
+  margin: 0;
+  position: relative;
+  bottom:1720px;
+  left:50%;
+  height: 1800px;
+  text-align: justify;
+}
+
+.LineaI{
+  background-color: black;
+  height: 3px;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  top: 25px;
+}

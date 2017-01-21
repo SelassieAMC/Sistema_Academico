@@ -1,0 +1,85 @@
+.aprobado{
+
+background-color: #E9FCFA;
+border: 1px dashed #006600;
+padding: 8px;
+margin-bottom: 10px;
+}
+
+.rechazado{
+
+background-color: #FFEDED;
+border: 1px dashed #FA206A;
+padding: 8px;
+margin-bottom: 10px;
+}
+
+/* leccion 7*/
+
+.div_modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #002640;
+  opacity: .80;
+  -webkit-opacity: .8;
+  -moz-opacity: .8;
+  filter: alpha(opacity=80);
+  z-index: 820;
+}
+ 
+.bolet{
+  text-decoration: none;
+  color: white;
+  font-family: serif;
+}
+
+.bolet:hover{
+   text-decoration: none;
+  color: red;
+  font-family: serif;
+}
+
+.bolet:active{
+text-decoration: none;
+  color: black;
+  font-family: serif;
+}
+.div_contenido {
+  background-color: #ecf0f5;
+  box-shadow: 0 0 20px 0 #222;
+  -webkit-box-shadow: 0 0 20px 0 #222;
+  -moz-box-shadow: 0 0 20px 0 #222;
+  display: none;
+  height: 98%;
+  margin-left: 2%;
+  margin-right: 2%;
+  left: 18%;
+  right: 0;
+  padding: 10px;
+  position: absolute;
+  top: 10%;
+  width: 60%;
+  /*min-height: 98%;*/
+  z-index: 830;
+}
+
+#column-right {
+    /*background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;*/
+    border-radius: 8px 8px 8px 8px;
+    float: right;
+    position: fixed;
+    min-height: 225px;
+    margin-bottom: 10px;
+    margin-left: 65%;
+    overflow: hidden;
+    text-align: center;
+    width: 200px;
+}
+
+
+

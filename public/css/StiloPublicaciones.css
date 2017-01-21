@@ -1,0 +1,51 @@
+  .tabla_relleno {
+  /*background-color: rgb(250, 145, 6);*/
+  width: 70%;
+  height: auto;
+  position: relative;
+  left: 15%;
+  border-style: solid;
+  border-color: black;
+}
+
+.TitulosP{
+  font-family: fantasy;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Descripcion{
+  text-align: center;
+  font-family: serif;;
+  font-size: 16px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.Imagee{
+  border-top-style: solid;
+  border-top-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.PDFF{
+  width: 10%;
+  text-decoration: none;
+  font-family: cursive;;
+  font-size: 16px;
+  padding:5px;
+  border-style: solid;
+  border-color: black;
+  background-color: rgba(21, 236, 81, 0.64);
+  position: relative;
+  left: 85%;
+  bottom: 10px;
+  text-shadow: rgb(225, 231, 232);
+}
+
+.PDFF:hoverr{
+  text-decoration: none;
+  background-color: rgba(28, 28, 29, 0.48);
+  color: rgb(246, 249, 242);
+}
